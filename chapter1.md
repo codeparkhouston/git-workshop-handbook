@@ -1,3 +1,6 @@
-# First Chapter
+# Before you get started
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+You'll want to have the following installed:
+
+* Git
+* Git-bash (if using Windows)
