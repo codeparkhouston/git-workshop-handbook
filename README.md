@@ -1,3 +1,3 @@
-# My Awesome Book
+# Git workshop handbook
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Thank you for attending the Git-together. This handbook will serve as a guide for the workshop and a reference for later.
