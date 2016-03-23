@@ -23,3 +23,5 @@ Go ahead and create a new file, and add a simple recipe. Just for kicks, go ahea
 > 4. Scramble
 
 
+<br>
+<p style="color:purple"> CLI track: Once you've saved your file, you'll want to <b>git add</b> it. This tells the Repo to begin tracking the new file. </p>
