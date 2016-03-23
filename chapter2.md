@@ -6,7 +6,7 @@ Your group mentor will have a project started on GitHub<sup>*</sup> for your gro
 
 Your mentor will show you where the project is on GitHub, and add you as a collaborator. This will give you access to edit the project files.
 
->The project files are kept in folder that Git is keeping track of, called a *Repository* - or *Repo* for short.
+>The project files are kept in folder Git is keeping track of, called a *Repository* - or *Repo* for short.
 
 <p style="color:purple"> CLI track: Your mentor will show you how to <b>clone</b> the Repo to your own computer. </p>
 
