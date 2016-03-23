@@ -6,4 +6,4 @@ You'll want to have the following:
 * Git installed
 * Git-bash installed (if using Windows)
 
-Please go to the install-desk if you don't have these already, and the fine people there will get you set up!
+Please go to the install-desk if you don't have these already, so the fine people there can get you set up!
