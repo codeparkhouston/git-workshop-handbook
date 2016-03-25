@@ -18,7 +18,7 @@ It printed something like `/Users/neeraj/`. pwd is short for "present working di
 
 You're seeing something else here too. You're seeing that both when we did `pwd` and `mkdir`, we saw folder names separated by slashes - `/` or `\`. What we're seeing are *paths*. These are exactly what they sound like, they're paths to a folder or file. 
 
-**The PATH** is an essential concept. Fortunately, it's something you're familiar with even if you didn't know it. When you go to your file browser and click through folders, what you're doing is navigating the path. There's nothing else to it. 
+The **path** is an essential concept. Fortunately, it's something you're familiar with even if you didn't know it. When you go to your file browser and click through folders, what you're doing is navigating the path. There's nothing else to it. 
 
 Before you can move between folders on the command-line or know whether you've found your file or not, you'll need to learn `cd` and `ls`, respectively. cd means "change directory" and it's exactly like clicking through to the next folder. Try `cd ghworkshop`. Now try `ls`. ls means "list". So, we changed folders to the `ghworkshop` folder, then asked the computer to list its contents. It will list the "test" folder we created earlier.
 
