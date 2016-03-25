@@ -1,0 +1,21 @@
+{
+  "name": "git-workshop-handbook",
+  "version": "1.0.0",
+  "description": "Thank you for attending the Git-together. This handbook will serve as a guide for the workshop and a reference for later.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.gitbook.com/neerajt/git-workshop-handbook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gitbook-plugin-modes": "github:pandafulmanda/gitbook-plugin-modes"
+  },
+  "devDependencies": {
+    "gitbook-cli": "^2.1.2"
+  }
+}
