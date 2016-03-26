@@ -1,3 +1,5 @@
+{%mode mode="s" %}
+
 # Learn the command-line
 
 Congratulations! You're getting the hang of it.
@@ -25,6 +27,8 @@ Before you can move between folders on the command-line or know whether you've f
 Try finding a file in your file browser, then finding it on your command-line. Do this a few times. Practice makes perfect!
 
 You now know enough to move forward with unlocking the full potential of Git. If the idea of the command-line still feels iffy to you, stick with it. The remainder of this workshop will provide a little more practice.
+
+{%endmode %}
 
 ## Review
 

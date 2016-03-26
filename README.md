@@ -24,4 +24,4 @@ There are a couple of different versions.
 
 **Full CLI**
 
-[Learners](https://codeparkhouston.github.io/git-workshop-handbook/?cli=true)  |  [Mentors](https://codeparkhouston.github.io/git-workshop-handbook/?cli=true&cli-mentor=true)
+[Learners](https://codeparkhouston.github.io/git-workshop-handbook/?cli=true)  |  [Mentors](https://codeparkhouston.github.io/git-workshop-handbook/?cli=true&mentor-cli=true)
