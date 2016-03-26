@@ -1,3 +1,9 @@
+{%mode mode="cli" %}
+# Push your changes back into GitHub
+
+
+{%endmode %}
+
 # Merging your branch back in
 
 Now that we've made some substantial changes, we want to share our recipes with the world! Or at least with our team. Let's see how we can merge our personal branch back in with the main branch, the *Master* branch.
@@ -7,3 +13,13 @@ On GitHub, the mechanism for doing this is a **pull request**, or a PR for short
 > Merging branches is a feature built into Git, but pull requests are a feature of GitHub.
 
 Go ahead and submit a pull request with your mentor. Ask questions about the process, and make sure to see how the pull requests get merged.
+
+
+
+{%mode mode="mentor" %}
+> **Info** Point out the log of commits and file diffs on the GitHub PR page.
+{%endmode %}
+
+{%mode mode="mentor-cli" %}
+> **Info** Point out the log of commits and file diffs on the GitHub PR page.
+{%endmode %}

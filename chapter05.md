@@ -1,11 +1,12 @@
 {%mode mode="cli" %}
-# Tell git to pay attention to the file's changes
+# Add file
 
+Your mentor will show you how we can ask git what's going on.  Git will respond and provide some helpful hints for us.
 
 {%endmode %}
 
 {%mode mode="mentor-cli" %}
-> **Info** `git status`, `git add ___`
+> **Info** Show your team `git status` and `git add ___`
 
 {%endmode %}
 
@@ -21,7 +22,15 @@ The short message is called the commit message. It describes the changes that ar
 
 {%mode mode="cli" %}
 
-### Review: Commands to tell git about changes
+## Review
+
+### Asking `git` for information
+
+| Command     | What it means | What it does |
+| ----------- | ------------- | ------------ |
+| `git status`  | **git**, what's your **status**?  | tells us which files have changed since our last commit |
+
+### Commands to tell `git` about changes
 
 | Command     | What it means | What it does |
 | ----------- | ------------- | ------------ |

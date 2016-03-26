@@ -3,11 +3,11 @@
 Let's make a new recipe!
 
 {%mode mode="mentor" %}
-> **Info** Keep an eye out for duplicate file names.  Try to prevent this so we avoid merge conflicts for now.  One way might be to plan together with the group as to who will add what types of recipes.
+> **Info** Keep an eye out for duplicate file names.  Try to prevent this so we avoid merge conflicts for now.  One way might be to plan together with the team as to who will add what types of recipes.
 {%endmode %}
 
 {%mode mode="mentor-cli" %}
-> **Info** Keep an eye out for duplicate file names.  Try to prevent this so we avoid merge conflicts for now.  One way might be to plan together with the group as to who will add what types of recipes.
+> **Info** Keep an eye out for duplicate file names.  Try to prevent this so we avoid merge conflicts for now.  One way might be to plan together with the team as to who will add what types of recipes.
 {%endmode %}
 
 {%mode mode="cli" %}
