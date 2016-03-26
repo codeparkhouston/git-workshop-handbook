@@ -23,7 +23,9 @@ The short message is called the commit message. It describes the changes that ar
 {%endmode %}
 
 {%mode mode="mentor-cli" %}
-> **Info** Discuss why commit messages are helpful.
+> **Info** Show how to do a `git commit -m "_____"`.
+>
+> Discuss why commit messages are helpful.
 
 {%endmode %}
 

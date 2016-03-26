@@ -2,10 +2,21 @@
 
 It's been called to our attention, so let's fix the typo. The process should now begin to become familiar to you. You'll need to:
 
+{%mode mode="s" %}
 * Create a new **branch**
 * Make your edits
 * **commit** your changes
 * Make a **pull request**
+{%endmode %}
+
+{%mode mode="cli" %}
+* `git checkout -b <branch name>`
+* Make your edits
+* `git add ___`
+* `git commit -m _____` your changes
+* `git push origin <branch name>`
+* Make a **pull request**
+{%endmode %}
 
 {%mode mode="mentor" %}
 > **Info** 
@@ -27,12 +38,5 @@ It's been called to our attention, so let's fix the typo. The process should now
 
 Browse around on the repo online and see how the recipes book is turning out!
 
-{%mode mode="mentor" %}
-> **Info** 
-> Revel in the glory of your team's first git collaboration!  Celebrate, discuss, review, take questions, and take a break.
-{%endmode %}
-
-{%mode mode="mentor-cli" %}
-> **Info** 
-> Revel in the glory of your team's first git collaboration!  Celebrate, discuss, review, take questions, and take a break.
-{%endmode %}
+> **Comment** 
+> Revel in the glory of your team's first git collaboration!  Celebrate, discuss, review, ask questions, and take a break.
