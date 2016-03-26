@@ -20,7 +20,7 @@ There are a couple of different versions.
 
 **Quick Start**
 
-[Learners](https://codeparkhouston.github.io/git-workshop-handbook/?s)  |  [Mentors](https://codeparkhouston.github.io/git-workshop-handbook/?mentor=true)
+[Learners](https://codeparkhouston.github.io/git-workshop-handbook/?s=true)  |  [Mentors](https://codeparkhouston.github.io/git-workshop-handbook/?s=true&mentor=true)
 
 **Full CLI**
 
