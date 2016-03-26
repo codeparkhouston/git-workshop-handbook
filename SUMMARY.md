@@ -12,4 +12,8 @@
   * [Fix it](./02-git-together/07-close-issues.md)
 * [Command Center](./03-commands/README.md)
 * [Git Your Own Repo](./04-git-your-own/README.md)
-
+  * [Your first repo files](./04-git-your-own/01-first-changes.md)
+  * [Remotes](./04-git-your-own/02-remotes.md)
+  * [Working locally](./04-git-your-own/03-working-locally.md)
+  * [Practice](./04-git-your-own/04-practice.md)
+* [Git More!](./05-conclusion/README.md)

@@ -14,6 +14,10 @@ Let's make a new recipe!
 Open the folder in your favorite text editor.
 {%endmode %}
 
+{%mode mode="s" %}
+Find and click the "New file" button while on your branch on the project page.
+{%endmode %}
+
 Go ahead and create a new file, and add a simple recipe. Just for kicks, go ahead and put an obvious typo in there somewhere. Here's mine:
 
 > ##scrambled-eggs.txt

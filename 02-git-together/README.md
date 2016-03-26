@@ -1,4 +1,4 @@
-# Today's exercise
+# Collaborating on an existing project
 
 To begin with, we'll be collaborating on a simple example project, a recipe book. With this example, we'll learn *most* of the essentials that you'll need to manage your own projects with Git.
 
@@ -16,6 +16,9 @@ When working with Git, you'll often hear the word "repository" or "repo".  *"Rep
 
 {%mode mode="mentor" %}
 > **Info** Show your team the repo page, and let them watch how you add them as collaborators.  They will be doing this later in the workshop.
+>
+> See this (poor quality =( ) gif for a quick run-through of how the learners will be collaborating in the GitHub interface.
+> ![Branching and everything!](../assets/images/gh-out.gif)
 {%endmode %}
 
 {%mode mode="mentor-cli" %}

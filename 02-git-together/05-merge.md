@@ -64,7 +64,9 @@ Look at your local copy of the project.  You should now have a complete copy wit
 
 {%mode mode="cli" %}
 
-### Review: Command to sync remotes
+## Review
+
+### Commands to sync remotes
 
 | Command     | What it means | What it does |
 | ----------- | ------------- | ------------ |
