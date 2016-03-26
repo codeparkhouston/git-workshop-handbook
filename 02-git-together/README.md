@@ -10,7 +10,7 @@ Your mentor will show you where the project is on GitHub, and add you as a colla
 
 When working with Git, you'll often hear the word "repository" or "repo".  *"Repository"* -- or *"repo"* for short -- is another name for a folder.  You can think of it as a smart container for all of a project's files.
 
-![A smart folder](./assets/images/smart-folder.png)
+![A smart folder](../assets/images/smart-folder.png)
 
 > **Comment** Discuss as a group what our recipe repo will contain.
 
