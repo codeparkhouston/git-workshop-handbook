@@ -5,7 +5,7 @@ It's been called to our attention, so let's fix the typo. The process should now
 {%mode mode="s" %}
 * Create a new **branch**
 * Make your edits
-* **commit** your changes
+* **Commit** your changes
 * Make a **pull request**
 {%endmode %}
 
@@ -37,6 +37,18 @@ It's been called to our attention, so let's fix the typo. The process should now
 {%endmode %}
 
 Browse around on the repo online and see how the recipes book is turning out!
+
+{%mode mode="mentor" %}
+> **Info** Lead your team in a show-and-tell of different libraries that are on GitHub.  Ask first what they've heard of or used, and pull up their repos online.  [Bootstrap](https://github.com/twbs/bootstrap) might be a a great candidate for this.  Or, for members more familiar with data analysis, [ggplot2](https://github.com/hadley/ggplot2), [jupyter/iPython notebook](https://github.com/jupyter/notebook).  Show how contributions have been made to these projects using similar workflows to what we just did.
+>
+> Congratulate team members on their shiny green contribution box on their profiles.
+{%endmode %}
+
+{%mode mode="mentor-cli" %}
+> **Info** Lead your team in a show-and-tell of different libraries that are on GitHub.  Ask first what they've heard of or used, and pull up their repos online.  [Bootstrap](https://github.com/twbs/bootstrap) might be a a great candidate for this.  Or, for members more familiar with data analysis, [ggplot2](https://github.com/hadley/ggplot2), [jupyter/iPython notebook](https://github.com/jupyter/notebook).  Show how contributions have been made to these projects using similar workflows to what we just did.
+>
+> Congratulate team members on their shiny green contribution box on their profiles.
+{%endmode %}
 
 > **Comment** 
 > Revel in the glory of your team's first git collaboration!  Celebrate, discuss, review, ask questions, and take a break.
