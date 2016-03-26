@@ -2,6 +2,18 @@
 
 Let's make a new recipe!
 
+{%mode mode="mentor" %}
+> **Info** Keep an eye out for duplicate file names.  Try to prevent this so we avoid merge conflicts for now.  One way might be to plan together with the group as to who will add what types of recipes.
+{%endmode %}
+
+{%mode mode="mentor-cli" %}
+> **Info** Keep an eye out for duplicate file names.  Try to prevent this so we avoid merge conflicts for now.  One way might be to plan together with the group as to who will add what types of recipes.
+{%endmode %}
+
+{%mode mode="cli" %}
+Open the folder in your favorite text editor.
+{%endmode %}
+
 Go ahead and create a new file, and add a simple recipe. Just for kicks, go ahead and put an obvious typo in there somewhere. Here's mine:
 
 > ##scrambled-eggs.txt
@@ -21,7 +33,3 @@ Go ahead and create a new file, and add a simple recipe. Just for kicks, go ahea
 > 3. Add egg mixture
 > 
 > 4. Scramble
-
-
-<br>
-<p style="color:purple"> CLI track: Once you've saved your file, you'll want to <b>git add</b> it. This tells the Repo to begin tracking the new file. </p>

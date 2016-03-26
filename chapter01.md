@@ -1,9 +1,8 @@
-# Before you get started
+# Discussion
 
-You'll want to have the following:
+> **Comment** 
+> Why does your mentor use Git?
+> 
+> Why might you use Git?
 
-* a GitHub account
-* Git installed
-* Git-bash installed (if using Windows)
-
-Please go to the install-desk if you don't have these already, so the fine people there can get you set up!
+![Piled Higher and Deeper](http://www.phdcomics.com/comics/archive/phd101212s.gif)

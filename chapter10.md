@@ -26,5 +26,12 @@ Try finding a file in your file browser, then finding it on your command-line. D
 
 You now know enough to move forward with unlocking the full potential of Git. If the idea of the command-line still feels iffy to you, stick with it. The remainder of this workshop will provide a little more practice.
 
+## Review
 
-
+| Command     | What it means | What it does |
+| ----------- | ------------- | ------------ |
+| `pwd` | **p**rint **w**orking **d**irectory | Tells us where we are |
+| `ls` | **l**i**s**t | List the things that are in this directory |
+| `mkdir` | **m**a**k**e a **dir**ectory | make a new directory in we are |
+| `cd hello`  | **c**hange **d**irectory | Move into the hello directory |
+| `ls -a`     | **l**i**s**t  **a**ll | List all things that are in this directory |
