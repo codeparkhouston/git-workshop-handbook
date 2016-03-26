@@ -48,7 +48,7 @@
     <body>
         
         
-    <div class="book" data-level="2.5" data-basepath="." data-revision="Sat Mar 26 2016 00:40:04 GMT-0500 (CDT)">
+    <div class="book" data-level="2.5" data-basepath="." data-revision="Sat Mar 26 2016 01:38:15 GMT-0500 (CDT)">
     
 
 <div class="book-summary">
@@ -349,21 +349,72 @@
                     <section class="normal" id="section-">
                     
                         <p><div data-mode="cli"><h1>Push your changes back into GitHub</h1>
+<p>Now that we&apos;ve made some substantial changes, we want to share our recipes with the world! Or at least with our team.</p>
+<p>The recipes are on your computer, in your copy/branch of the project.  For us to get it merged back in with everyone&apos;s changes, we have to get your branch online, onto GitHub.  Your mentor will show you how we can do this.</p>
+</div></p>
+<p><div data-mode="mentor-cli"><blockquote class="clearfix alert alert-info"><strong class="fa fa-4x fa-info"></strong>
+<p> Show how to <code>git push origin ___</code> and introduce/explain the concept of git remotes.</p>
+<p>Your team will likely have to login on the command line.  This may be confusing since there&apos;s no feedback of the password being typed in.</p>
+</blockquote>
 </div></p>
 <h1 id="merging-your-branch-back-in">Merging your branch back in</h1>
-<p>Now that we&apos;ve made some substantial changes, we want to share our recipes with the world! Or at least with our team. Let&apos;s see how we can merge our personal branch back in with the main branch, the <em>Master</em> branch.</p>
-<p>On GitHub, the mechanism for doing this is a <strong>pull request</strong>, or a PR for short. A pull request tells the owner of the main branch that you&apos;re ready for them to merge your changes back in. This is when someone responsible for the project will approve your changes and <strong>merge</strong> them into the main branch.</p>
+<p><div data-mode="s"><p>Now that we&apos;ve made some substantial changes, we want to share our recipes with the world! Or at least with our team. Let&apos;s see how we can merge our personal branch back in with the main branch, the <em>Master</em> branch.</p>
+</div></p>
+<p><div data-mode="cli"><p>Now that our branches are online, let&apos;s see how we can merge them back in with the main branch, the <em>Master</em> branch.</p>
+</div></p>
+<p><div data-mode="mentor"><blockquote class="clearfix alert alert-info"><strong class="fa fa-4x fa-info"></strong>
+<p> There may be questions about what it means for a branch to be the &quot;master&quot; branch.  Discuss.</p>
+</blockquote>
+</div></p>
+<p><div data-mode="mentor-cli"><blockquote class="clearfix alert alert-info"><strong class="fa fa-4x fa-info"></strong>
+<p> There may be questions about what it means for a branch to be the &quot;master&quot; branch.  Discuss.</p>
+</blockquote>
+</div></p>
+<p>On GitHub, the mechanism for doing this is a <strong>pull request</strong>, or PR for short. A pull request tells the owner of the repo that you&apos;re ready for them to merge your changes back in. This is when someone responsible for the project will approve your changes and <strong>merge</strong> them into the main branch.</p>
 <blockquote>
 <p>Merging branches is a feature built into Git, but pull requests are a feature of GitHub.</p>
 </blockquote>
 <p>Go ahead and submit a pull request with your mentor. Ask questions about the process, and make sure to see how the pull requests get merged.</p>
 <p><div data-mode="mentor"><blockquote class="clearfix alert alert-info"><strong class="fa fa-4x fa-info"></strong>
-<p> Point out the log of commits and file diffs on the GitHub PR page.</p>
+<p> Review the pull requests.  Point out the log of commits and file diffs on the GitHub PR page.</p>
+<p>Show off the merged repo on GitHub.</p>
 </blockquote>
 </div></p>
 <p><div data-mode="mentor-cli"><blockquote class="clearfix alert alert-info"><strong class="fa fa-4x fa-info"></strong>
-<p> Point out the log of commits and file diffs on the GitHub PR page.</p>
+<p> Review the pull requests.  Point out the log of commits and file diffs on the GitHub PR page.</p>
+<p>Show off the merged repo on GitHub.</p>
 </blockquote>
+</div></p>
+<h1 id="sync-your-local-copy-with-what-s-online">Sync your local copy with what&apos;s online.</h1>
+<p>Right now, locally, we are still on the copy with only your changes.  To be able to see the current master version with everyone&apos;s recipes, we&apos;ll need to first go back to our master branch, and then &quot;pull&quot; in the updates from the origin&apos;s master branch.</p>
+<p><div data-mode="mentor-cli"><blockquote class="clearfix alert alert-info"><strong class="fa fa-4x fa-info"></strong>
+<p> Show your team how to <code>git checkout master</code> and then <code>git pull origin master</code>.</p>
+<p>Point out how we&apos;ve done <code>git checkout</code> before, with the <code>-b</code> option to make our new branch, and how running it without the <code>-b</code> allows us to switch to an existing branch.</p>
+</blockquote>
+</div></p>
+<p>Look at your local copy of the project.  You should now have a complete copy with everyone&apos;s recipes!</p>
+<p><div data-mode="cli"><h3>Review: Command to sync remotes</h3>
+<table>
+<thead>
+<tr>
+<th>Command</th>
+<th>What it means</th>
+<th>What it does</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>git push origin ____</code></td>
+<td><strong>git</strong>, <strong>push</strong> what you have tracked up as the <em>_</em> branch for <code>origin</code></td>
+<td>syncs our <code>origin</code> branch of <em>_</em> online</td>
+</tr>
+<tr>
+<td><code>git pull origin ____</code></td>
+<td><strong>git</strong>, <strong>pull</strong> from <code>origin</code> the <em>_</em> branch</td>
+<td>syncs our <em>_</em> branch with what&apos;s in <code>origin</code></td>
+</tr>
+</tbody>
+</table>
 </div></p>
 
                     
