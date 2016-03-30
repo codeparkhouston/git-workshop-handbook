@@ -18,10 +18,10 @@ This handbook will serve as a guide for the workshop and a reference for later.
 
 There are a couple of different versions.
 
-**Quick Start**
+{%mode mode='s' %}
+This is the Quick Start Version
+{%endmode %}
 
-[Learners](https://codeparkhouston.github.io/git-workshop-handbook/?s=true)  |  [Mentors](https://codeparkhouston.github.io/git-workshop-handbook/?s=true&mentor=true)
-
-**Full CLI**
-
-[Learners](https://codeparkhouston.github.io/git-workshop-handbook/?cli=true)  |  [Mentors](https://codeparkhouston.github.io/git-workshop-handbook/?cli=true&mentor-cli=true)
+{%mode mode='cli' %}
+This is the Full CLI Version
+{%endmode %}

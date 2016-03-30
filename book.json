@@ -1,3 +1,16 @@
 {
-    "plugins": ["gitbook-plugin-modes", "richquotes"]
+    "plugins": ["gitbook-plugin-modes", "richquotes"],
+    "styles": {
+        "pdf": "./assets/styles/pdf.css"
+    },
+    "pdf": {
+      "paperSize": "a6",
+      "fontSize": 6,
+      "margin": {
+        "top": 10,
+        "bottom": 10,
+        "right": 10,
+        "left": 10
+      }
+    }
 }

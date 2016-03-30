@@ -8,6 +8,8 @@
 
 [Git Tutorial](https://www.atlassian.com/git/tutorials/what-is-version-control)
 
+[Git Reference](https://git-scm.com/doc)
+
 And of course, by practicing within your own projects.
 
 {%mode mode="mentor" %}
